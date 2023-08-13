@@ -33,7 +33,7 @@ const BlogTAC = () => {
 </p>
 <p class="px-4 pb-2">
     <span class="text1">
-        1.1 - These user terms &amp; conditions (the "Agreement"), which includes those terms and conditions expressly set out below and those incorporated by reference including the terms of the Privacy Policy and the Game Rules (as defined in section 9 below) is an agreement between you (the "User", "you" and "your"), and WBZ Criket Line Book which governs your use of the products and services ("Services") provided by the Company through the WBZ Criket Line Book website. By using any of the Services you are agreeing to all the terms of this Agreement.
+        1.1 - These user terms &amp; conditions (the "Agreement"), which includes those terms and conditions expressly set out below and those incorporated by reference including the terms of the Privacy Policy and the Game Rules (as defined in section 9 below) is an agreement between you (the "User", "you" and "your"), and Naidu Criket Line Book which governs your use of the products and services ("Services") provided by the Company through the Naidu Criket Line Book website. By using any of the Services you are agreeing to all the terms of this Agreement.
     </span>
 </p>
 <p class="px-4 py-2">
@@ -59,7 +59,7 @@ const BlogTAC = () => {
 </p>
 <p class="px-4 pb-2">
     <span class="text1">
-        Use of the WBZ Criket Line Book name and any of the other names or marks associated with the Platform, the Services, or the Software is strictly forbidden unless it is used with the express written permission of the Company. The Platform, the Services, and the Software, including its code, documentation, appearance, structure, and organization is an exclusive product of the Company, which retains all rights, tangible and intangible, to the WBZ Criket Line Book website, the games therein, software, codes, copies, modifications, or merged parts.
+        Use of the Naidu Criket Line Book name and any of the other names or marks associated with the Platform, the Services, or the Software is strictly forbidden unless it is used with the express written permission of the Company. The Platform, the Services, and the Software, including its code, documentation, appearance, structure, and organization is an exclusive product of the Company, which retains all rights, tangible and intangible, to the Naidu Criket Line Book website, the games therein, software, codes, copies, modifications, or merged parts.
     </span>
 </p>
 
